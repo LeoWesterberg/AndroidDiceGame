@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ThirtyThrows</string>
+    <string name="play_button">Play</string>
+    <string name="description">Thirty är ett tärningsspel inte helt olikt Yatzy där man slår sex tärningar i omgångar.
+        Man får sedan slå om de man vill av tärningarna två gånger. Vid varje omslag får spelaren välja vilka tärningar
+        den vill behålla. Efter de tre slagen beräknar man poängen för tärningarna. Ett spel består sedan av 10 stycken
+        sådana rundor. Vi kommer alltså totalt göra maximalt 30 slag, därav namnet på spelet.</string>
+    <string name="throw_button">Throw</string>
+    <string name="round_points">Round points</string>
+    <string name="total_points">Total</string>
+    <string name="round_choices">Round choices</string>
+    <string name="points_show">0</string>
+    <string name="play_again">Play Again</string>
+    <string name="with">with</string>
+    <string name="game_over">Game Ended</string>
+
+
+    <string name="calculate">Calculate</string>
+    <string-array name="choice_array">
+        <item>Low</item>
+        <item>4</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+</resources>
